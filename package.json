@@ -14,5 +14,9 @@
     "tool"
   ],
   "author": "Charles D. Crawford III <charliec364@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "minimist": "^1.1.1"
+  }
 }
