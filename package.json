@@ -17,6 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.9.2",
+    "github": "^0.2.4",
+    "lodash": "^3.9.1",
     "minimist": "^1.1.1"
   }
 }
