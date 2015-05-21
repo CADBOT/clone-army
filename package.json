@@ -1,0 +1,18 @@
+{
+  "name": "clone-army",
+  "version": "1.0.0",
+  "description": "A tool to facilitate mass downloading of a repos forks. clone-army is particularly useful for code grading scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "clone",
+    "grading",
+    "cli",
+    "tool"
+  ],
+  "author": "Charles D. Crawford III <charliec364@gmail.com>",
+  "license": "ISC"
+}
